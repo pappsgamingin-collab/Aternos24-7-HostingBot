@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "shipott3.aternos.me",
-    "port": 33401,
+    "ip": "MSVKK2.aternos.me",
+    "port": 30212,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "my owner is shanu",
+        "my owner is x",
         "I like to play Minecraft!"
       ]
     },
